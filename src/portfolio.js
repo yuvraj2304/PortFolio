@@ -32,7 +32,7 @@ const experiences = [
     description:
       'Developed an AI-enabled FinTech B2B Invoice Management system, collaborating with across-functional team to implement ML models predicting future payment dates of companiesusing LinearRegression, SVR, DecisionTreeRegression, and RandomForestRegression',
     
-      date: 'May 22 - Jul 22',
+      date: 'May 22- Jul 22',
       location: 'Remote',
    
     
